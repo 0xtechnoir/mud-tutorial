@@ -9,4 +9,6 @@ broadcast/
 
 # Ignore MUD deploy artifacts
 deploys/**/*.json
+
 .env
+.DS_Store
